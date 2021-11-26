@@ -1,1 +1,1 @@
-repositório para códigos da IC da amanda
+repositorio apenas para codigos em python
